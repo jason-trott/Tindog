@@ -1,2 +1,1 @@
-# Tindog
-Angela_Yu's_Tindog_website
+TinDog Starting Files
